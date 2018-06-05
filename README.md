@@ -1,2 +1,2 @@
 # ap-programming
-All of the code from AP Programming class (2017-2018)
+This is all of the code from my AP Programming class sophomore year (2017-2018).
